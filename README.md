@@ -4,7 +4,7 @@
 </p> -->
 
 # 💫 About Me:
-👨‍💻  Pre-final year MERN stack developer<br>🌱  Learning and building with JavaScript & React<br>🧠  Interested in problem-solving & DSA<br>🛠️  Projects using HTML, CSS, JavaScript<br>📚  Solved 100+ LeetCode problems<br>🚀  Focused on continuous learning and growth
+👨‍💻  Pre-final year MERN stack developer<br>🌱  Learning and building with JavaScript & React<br>🧠  Interested in problem-solving & DSA<br>🛠️  Projects using HTML, CSS, JavaScript<br>🚀  Focused on continuous learning and growth
 
 
 ## 🌐 Socials:
