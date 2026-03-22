@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukul Anand</h1>
-<!-- <h3 align="center">MY ALL FULLSTACK PROJECT IS COMMING SOON!!!</h3>
+<h3 align="center">MY ALL FULLSTACK PROJECT IS COMMING SOON!!!</h3>
 <p align="left">
-</p> -->
+</p>
 
 # 💫 About Me:
 👨‍💻  Pre-final year MERN stack developer<br>🌱  Learning and building with JavaScript & React<br>🧠  Interested in problem-solving & DSA<br>🛠️  Projects using HTML, CSS, JavaScript<br>🚀  Focused on continuous learning and growth
