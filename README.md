@@ -1,4 +1,4 @@
-<img width="17" height="156" alt="image" src="https://github.com/user-attachments/assets/ba024a11-3c0f-4de0-9af0-ed42b178df77" /><h1 align="center">Hi 👋, I'm Mukul Anand</h1>
+<h1 align="center">Hi 👋, I'm Mukul Anand</h1>
 <h3 align="center">MY ALL FULLSTACK PROJECT IS COMMING SOON!!!</h3>
 <p align="left">
 </p> 
