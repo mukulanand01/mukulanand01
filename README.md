@@ -4,7 +4,12 @@
 </p> 
 
 # 💫 About Me:
-👨‍💻  Pre-final year MERN stack developer<br>🌱  Learning and building with JavaScript & React<br>🧠  Interested in problem-solving & DSA<br>🛠️  Projects using HTML, CSS, JavaScript<br>🚀  Focused on continuous learning and growth
+
+👨‍💻 Final-year B.Tech Computer Science Student  
+💻 Full-Stack MERN Developer passionate about building scalable web applications  
+⚛️ Skilled in React, Redux Toolkit, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS, and Tailwind CSS  
+🧠 Strong problem-solving skills with 200+ LeetCode problems solved using C++  
+🚀 Actively building real-world projects and preparing for Software Development Engineer (SDE) roles
 
 
 ## 🌐 Socials & Coding Profiles
