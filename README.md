@@ -5,11 +5,11 @@
 
 # 💫 About Me:
 
-👨‍💻 Final-year B.Tech Computer Science Student  
-💻 Full-Stack MERN Developer passionate about building scalable web applications  
-⚛️ Skilled in React, Redux Toolkit, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS, and Tailwind CSS  
-🧠 Strong problem-solving skills with 200+ LeetCode problems solved using C++  
-🚀 Actively building real-world projects and preparing for Software Development Engineer (SDE) roles
+👨‍💻 Final-year B.Tech CSE Student  
+💻 Full-Stack MERN Developer  
+⚛️ React, Redux Toolkit, Node.js, Express.js & MongoDB  
+🧠 200+ LeetCode problems solved using C++  
+🚀 Aspiring Software Development Engineer (SDE)
 
 
 ## 🌐 Socials & Coding Profiles
