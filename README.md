@@ -1,16 +1,3 @@
-<p align="center">
-  <picture>
-    <source srcset="dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="light.svg" media="(prefers-color-scheme: light)">
-    <img src="light.svg" alt="Animated Banner">
-  </picture>
-</p>
-
-<h1 align="center">Hi 👋, I'm Mukul Anand</h1>
-<h3 align="center">"NEVER THINK OF YOURSELF AS LESS THAN ANYONE. BELIEVE IN YOUR POTENTIAL, STAY CONSISTENT, AND WORK HARD."</h3>
-<p align="left">
-</p> 
-
 # 💫 About Me:
 
 👨‍💻 Final-year B.Tech CSE Student  
