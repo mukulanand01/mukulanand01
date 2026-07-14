@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Mukul Anand</h1>
+<h3 align="center">"NEVER THINK OF YOURSELF AS LESS THAN ANYONE. BELIEVE IN YOUR POTENTIAL, STAY CONSISTENT, AND WORK HARD."</h3>
+<p align="left">
+</p> 
+
 # 💫 About Me:
 
 👨‍💻 Final-year B.Tech CSE Student  
