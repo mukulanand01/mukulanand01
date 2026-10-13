@@ -14,10 +14,11 @@ Final-year B.Tech CSE student (batch 2027) and aspiring **Full Stack Developer**
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| [PixoraBlog](https://github.com/mukulanand01/PixoraBlog) | Blog platform with JWT auth (httpOnly cookies), User/Admin roles, Cloudinary image uploads | React, Node, Express, MongoDB | [Live](YOUR-PIXORABLOG-LINK) |
-| [GenUI](https://github.com/mukulanand01/genui-ai-component-generator) | Turns plain-English descriptions into frontend code with live preview | React 19, Tailwind, Gemini API | [Live](YOUR-GENUI-LINK) |
+| [PixoraBlog](https://github.com/mukulanand01/PixoraBlog) | Blog platform with JWT auth (httpOnly cookies), User/Admin roles, Cloudinary image uploads | React, Node, Express, MongoDB | [Live](https://pixora-blog-beta.vercel.app/) |
+| [Bhojanam](https://github.com/mukulanand01/bhojanam-restaurant) | Restaurant site with live table reservations | React, Node, Express, MongoDB | [Live](https://bhojanam-restaurant.vercel.app/) |
+| [GenUI](https://github.com/mukulanand01/genui-ai-component-generator) | Turns plain-English descriptions into frontend code with live preview | React 19, Tailwind, Gemini API | [Live](https://genui-ai-component-generator.vercel.app/) |
 | [Smart Kitchen](https://github.com/mukulanand01/Smart-Kitchen-Food-Waste-Logging-Analytics-for-Hostels) | Logs and analyzes food waste in hostel kitchens | JavaScript | - |
-| [Bhojanam](https://github.com/mukulanand01/bhojanam-restaurant) | Restaurant site with live table reservations | React, Node, Express, MongoDB | [Live](YOUR-BHOJANAM-LINK) |
+
 
 ## 🧩 Problem Solving
 
