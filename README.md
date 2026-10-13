@@ -1,6 +1,6 @@
 # Hi, I'm Mukul Anand 👋
 
-Final-year B.Tech CSE student (batch 2027) and aspiring **Full Stack Developer**, building end-to-end web apps with the **MERN stack**. Based in Chandigarh, India.
+Final-year B.Tech CSE student (batch 2027) and aspiring **Full Stack Developer**, building end-to-end web apps with the **MERN stack**. Based in Sahibzada Ajit Singh Nagar, India.
 
 ## 🛠 Tech Stack
 
