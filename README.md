@@ -25,6 +25,6 @@ Final-year B.Tech CSE student (batch 2027) and aspiring **Full Stack Developer**
 
 ## 📫 Connect
 
-- LinkedIn: [YOUR-LINKEDIN-LINK](YOUR-LINKEDIN-LINK)
+- LinkedIn: [YOUR-LINKEDIN-LINK]([YOUR-LINKEDIN-LIN](https://www.linkedin.com/in/mukul-anand-12480b281/?isSelfProfile=true)K)
 - LeetCode: [mukulanand01](https://leetcode.com/u/mukulanand01)
-- Email: YOUR-EMAIL
+- Email: mukulanand021@gmail.com
